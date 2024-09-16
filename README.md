@@ -8,6 +8,6 @@ Exploratory Data Analysis (EDA) menggunakan SQL untuk data Netflix dapat memberi
 
 3. Siapa Sutradara yang Paling Produktif di Netflix?
 
-4 Apa Genre yang Paling Banyak Tersedia di Netflix dan Bagaimana Perubahannya dari Tahun ke Tahun?
+4. Apa Genre yang Paling Banyak Tersedia di Netflix dan Bagaimana Perubahannya dari Tahun ke Tahun?
 
 5. Apa Konten dengan Deskripsi Terpanjang dan Apa Artinya Untuk Penilaian atau Kategori Konten?

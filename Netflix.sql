@@ -18,7 +18,7 @@ FROM netflix_dataset
 GROUP BY country, rating
 ORDER BY country, rating;
 
-Penjelasan:
+-- Penjelasan:
 -- SELECT country, rating, COUNT(*) AS count: Memilih negara (country), rating (rating), dan menghitung jumlah konten berdasarkan negara dan rating.
 -- FROM netflix_dataset: Mengambil data dari tabel netflix_dataset.
 -- GROUP BY country, rating: Mengelompokkan hasil berdasarkan negara dan rating.

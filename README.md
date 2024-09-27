@@ -1,13 +1,28 @@
-## Exploratory-Data-Analisis-Netflix
-Exploratory Data Analysis (EDA) menggunakan SQL untuk data Netflix dapat memberikan wawasan mendalam tentang pola dan tren dalam data untuk mendukung keputusan strategis dan operasional yang dapat mempengaruhi pertumbuhan dan kinerja bisnis.
+## Deskripsi Project:
+Proyek ini bertujuan untuk menganalisis data Netflix menggunakan SQL untuk mengidentifikasi pola dan tren dalam konten, serta preferensi pengguna. 
 
-## Tujuan
-1. Apa Tipe Konten yang Paling Banyak Ditambahkan ke Netflix Setiap Tahun?
+## Tujuan Project:
+Memahami Data: Menganalisis struktur dan konten dataset, termasuk kolom, tipe data, dan nilai yang hilang.
 
-2. Bagaimana Distribusi Rating Konten di Berbagai Negara?
+Identifikasi Tren: Menggali pola dalam data, seperti tren penonton dari waktu ke waktu, genre populer, dan variasi regional.
 
-3. Siapa Sutradara yang Paling Produktif di Netflix?
+Analisis Kinerja Konten: Mengukur kinerja film dan serial berdasarkan metrik seperti rating, jumlah penonton, dan ulasan.
 
-4. Apa Genre yang Paling Banyak Tersedia di Netflix dan Bagaimana Perubahannya dari Tahun ke Tahun?
+Segmentasi Penonton: Mengidentifikasi segmen penonton berdasarkan perilaku menonton, preferensi genre, dan demografi.
 
-5. Apa Konten dengan Deskripsi Terpanjang dan Apa Artinya Untuk Penilaian atau Kategori Konten?
+Pengambilan Keputusan Berbasis Data: Membantu tim manajemen membuat keputusan yang lebih baik berdasarkan analisis yang mendalam.
+ 
+
+## Data Source:
+Kaggle 
+
+## Teknologi dan Alat yang Digunakan
+Bahasa Pemrograman:  Sql
+Database: Microsoft Sql Server. 
+
+## Proses dan Metodologi
+Pengumpulan Data: Menggunakan SQL untuk mengambil data dari database.
+
+Pembersihan Data: Memastikan data bersih dan bebas dari duplikasi.
+
+Analisis Awal: Menggunakan query SQL untuk mengeksplorasi data.
